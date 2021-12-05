@@ -1,0 +1,24 @@
+h1 {
+    color: brown;
+}
+
+
+.i{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.q{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.w{
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2,p{
+    text-align: center;
+}
